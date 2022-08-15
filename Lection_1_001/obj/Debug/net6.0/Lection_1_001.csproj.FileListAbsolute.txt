@@ -1,0 +1,15 @@
+/Users/alonaratsebarska/Desktop/repositories/course_C_Sharp/Lection_1_001/bin/Debug/net6.0/Lection_1_001
+/Users/alonaratsebarska/Desktop/repositories/course_C_Sharp/Lection_1_001/bin/Debug/net6.0/Lection_1_001.deps.json
+/Users/alonaratsebarska/Desktop/repositories/course_C_Sharp/Lection_1_001/bin/Debug/net6.0/Lection_1_001.runtimeconfig.json
+/Users/alonaratsebarska/Desktop/repositories/course_C_Sharp/Lection_1_001/bin/Debug/net6.0/Lection_1_001.dll
+/Users/alonaratsebarska/Desktop/repositories/course_C_Sharp/Lection_1_001/bin/Debug/net6.0/Lection_1_001.pdb
+/Users/alonaratsebarska/Desktop/repositories/course_C_Sharp/Lection_1_001/obj/Debug/net6.0/Lection_1_001.csproj.AssemblyReference.cache
+/Users/alonaratsebarska/Desktop/repositories/course_C_Sharp/Lection_1_001/obj/Debug/net6.0/Lection_1_001.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alonaratsebarska/Desktop/repositories/course_C_Sharp/Lection_1_001/obj/Debug/net6.0/Lection_1_001.AssemblyInfoInputs.cache
+/Users/alonaratsebarska/Desktop/repositories/course_C_Sharp/Lection_1_001/obj/Debug/net6.0/Lection_1_001.AssemblyInfo.cs
+/Users/alonaratsebarska/Desktop/repositories/course_C_Sharp/Lection_1_001/obj/Debug/net6.0/Lection_1_001.csproj.CoreCompileInputs.cache
+/Users/alonaratsebarska/Desktop/repositories/course_C_Sharp/Lection_1_001/obj/Debug/net6.0/Lection_1_001.dll
+/Users/alonaratsebarska/Desktop/repositories/course_C_Sharp/Lection_1_001/obj/Debug/net6.0/refint/Lection_1_001.dll
+/Users/alonaratsebarska/Desktop/repositories/course_C_Sharp/Lection_1_001/obj/Debug/net6.0/Lection_1_001.pdb
+/Users/alonaratsebarska/Desktop/repositories/course_C_Sharp/Lection_1_001/obj/Debug/net6.0/Lection_1_001.genruntimeconfig.cache
+/Users/alonaratsebarska/Desktop/repositories/course_C_Sharp/Lection_1_001/obj/Debug/net6.0/ref/Lection_1_001.dll
